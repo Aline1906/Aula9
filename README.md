@@ -2,7 +2,7 @@
 
 # Te liguei deve ta ocupadinho... :telephone_receiver:
 
-## Esss projeto é foi feito pra você que precisa organizar os contatinhos ..
+## Esss projeto foi feito pra você que precisa organizar os contatinhos ..
  
 
  ## Uma API no grau pra por em ordem tua agenda! ..
